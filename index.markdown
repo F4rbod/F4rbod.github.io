@@ -4,6 +4,7 @@
 
 layout: home
 ---
+
 <style>
     #banner img{
         display:block;
@@ -33,9 +34,8 @@ layout: home
 
 <div id = "description">
     <h1>Welcome!</h1>
-    <p> Here I will share some footprints of my learning.</p>
+    <p> Here I will share some of my work.</p>
 </div>
-
 
 <div id = "sections">
     <a href = "/about/">
@@ -54,7 +54,3 @@ layout: home
         </div>
     </a>
 </div>
-
-
-
-
