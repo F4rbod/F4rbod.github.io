@@ -4,6 +4,4 @@ title: About me
 permalink: /about/
 ---
 
-<div class = "blog-doc">
-    <object data="https://drive.google.com/open?id=1ifzG3uhazZVPJ420KalLKEy3N3FLPf4e&authuser=farbodaline%40gmail.com&usp=drive_fs"  type="application/pdf">
-</div>
+<object data="https://drive.google.com/open?id=1ifzG3uhazZVPJ420KalLKEy3N3FLPf4e&authuser=farbodaline%40gmail.com&usp=drive_fs"  type="application/pdf">
