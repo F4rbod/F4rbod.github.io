@@ -29,7 +29,7 @@ layout: home
 </style>
 
 <div id = "banner">
-    <img src = "/assets/img/home/leaves.jpg">
+    <img src = "/assets/img/home/F4349668-8D9F-4CD0-8037-BB9ACA221B71_1_105_c.jpeg">
 </div>
 
 <div id = "description">
@@ -46,11 +46,6 @@ layout: home
     <a href = "/posts/">
         <div>
             <span>Blogs</span>
-        </div>
-    </a>
-    <a href = "/about/">
-        <div>
-            <span>Resources</span>
         </div>
     </a>
 </div>
